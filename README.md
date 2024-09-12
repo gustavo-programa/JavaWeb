@@ -11,19 +11,19 @@ Sistema CRUD para Cadastro de Material  Este é um sistema de gerenciamento de m
 - HTML, CSS, JavaScript (para a interface)
 - Git (controle de versão)
 # Como Rodar o Projeto
-Clone o repositório:
-bash
-Copiar código
-git clone https://github.com/seu-usuario/seu-repositorio.git
-. Importe o projeto no seu ambiente de desenvolvimento (NetBeans, Eclipse, IntelliJ, etc.).
-. Configure o banco de dados MySQL com as credenciais e as tabelas necessárias.
-. Execute o servidor (Tomcat, GlassFish, etc.).
-. Acesse o sistema pelo navegador em: http://localhost:8080/sistema.
+- Clone o repositório:
+- bash
+- Copiar código
+  - git clone https://github.com/seu-usuario/seu-repositorio.git
+- Importe o projeto no seu ambiente de desenvolvimento (NetBeans, Eclipse, IntelliJ, etc.).
+-  Configure o banco de dados MySQL com as credenciais e as tabelas necessárias.
+-  Execute o servidor (Tomcat, GlassFish, etc.).
+- Acesse o sistema pelo navegador em: http://localhost:8080/sistema.
 # Configurações do Banco de Dados
 Certifique-se de ter o MySQL configurado corretamente com as seguintes credenciais (você pode ajustar conforme necessário):
 
-Host: localhost
-Porta: 3306
-Usuário: root
-Senha: sua-senha
-Banco de Dados: cadastro_materiais
+- Host: localhost
+- Porta: 3306
+- Usuário: root
+- Senha: sua-senha
+- Banco de Dados: cadastro_materiais
