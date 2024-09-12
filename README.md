@@ -3,13 +3,13 @@ Sistema CRUD para Cadastro de Material  Este é um sistema de gerenciamento de m
 # Funcionalidades
 - Cadastrar novos materiais no sistema.
 - Listar todos os materiais cadastrados.
-. Atualizar os dados de materiais existentes.
-. Deletar materiais do sistema.
+- Atualizar os dados de materiais existentes.
+- Deletar materiais do sistema.
 # Tecnologias Utilizadas
-Java Web (Servlets, JSP)
-MySQL (para o banco de dados)
-HTML, CSS, JavaScript (para a interface)
-Git (controle de versão)
+- Java Web (Servlets, JSP)
+- MySQL (para o banco de dados)
+- HTML, CSS, JavaScript (para a interface)
+- Git (controle de versão)
 # Como Rodar o Projeto
 Clone o repositório:
 bash
