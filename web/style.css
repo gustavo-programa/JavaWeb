@@ -1,0 +1,94 @@
+
+header {
+    background-color: #708090;
+    margin: 0 auto;
+    padding: 10px;
+    color: #F8F8FF;
+   
+}
+
+.title-h1{
+    font-size: 20px;
+    margin-left: 30px;
+    font-weight: bold;
+}
+
+.subheader{
+    display: flex;
+    align-items: center; /* Centraliza os itens verticalmente */
+    justify-content: space-between; /* Coloca o h2 e as li nos extremos */
+    background-color: #778899;
+    padding: 10px;
+    color: #F5F5F5;
+}
+.subheader-h2{
+    margin-left: 28px;
+    font-size: 30px;
+    
+}
+.subheader-nav{
+    display: flex;
+    justify-content: flex-end;
+    gap: 30px;
+    list-style: none;
+    padding-right:  50px;
+    margin: 0;
+    
+}
+.li-cadastrar {
+    margin-left: auto;
+}
+.cadastrar{
+    font-family: 'Varela Round', sans-serif; /* Fonte personalizada */
+    font-size: 17px;
+    font-weight: 400;
+    padding: .375rem .75rem;
+    color: white;
+    background-color: #28a745;
+    border-color: #28a745;
+    text-decoration: none;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}   
+
+.cadastrar:hover {
+    color: white; /* Cor quando o mouse passa sobre 'Cadastrar' */
+    background-color: #218838;
+    text-decoration: none;
+}
+.excluir{
+    font-family: 'Varela Round', sans-serif; /* Fonte personalizada */
+    font-size: 17px;
+    font-weight: 400;
+    padding: .375rem .75rem;
+    color: white;
+    background-color: #dc3545;
+    border-color: #28a745;
+    text-decoration: none;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+.excluir:hover{
+    color: white; /* Cor quando o mouse passa sobre 'Cadastrar' */
+    background-color: #c82333;
+    text-decoration: none;
+}
+.main {
+    background-color: #f8f9fa;
+    padding: 10px;
+    width: 95%;
+    height: 730px;
+    margin: 0 auto; /* Centraliza o main horizontalmente */
+}
+footer{
+    padding: 10px;
+    width: 95%;
+    margin: 0 auto;       
+}
+.title_apresentacao{
+    display: flex;
+    align-items: center;
+}
+iframe{
+    border: 0px;
+    width: 100%;
+    height: 730px;
+}
