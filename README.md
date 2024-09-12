@@ -14,7 +14,7 @@ Sistema CRUD para Cadastro de Material  Este é um sistema de gerenciamento de m
 - Clone o repositório:
 - bash
 - Copiar código
-  - git clone https://github.com/seu-usuario/seu-repositorio.git
+- git clone https://github.com/seu-usuario/seu-repositorio.git
 - Importe o projeto no seu ambiente de desenvolvimento (NetBeans, Eclipse, IntelliJ, etc.).
 -  Configure o banco de dados MySQL com as credenciais e as tabelas necessárias.
 -  Execute o servidor (Tomcat, GlassFish, etc.).
